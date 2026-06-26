@@ -1,1 +1,1 @@
-# github-course-training
+# This repository is used for Github Training
