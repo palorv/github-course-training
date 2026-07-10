@@ -1,1 +1,4 @@
-# github-course-training
+github-course-training
+Edit to conflict
+===
+
